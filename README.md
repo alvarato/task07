@@ -1,1 +1,2 @@
-# task07
+# task06
+### metodos y arrays
