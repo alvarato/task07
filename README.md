@@ -1,2 +1,2 @@
 # task06
-### metodos y arrays
+### HashTable y arrays list
